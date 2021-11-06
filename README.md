@@ -19,6 +19,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 * Version Control: 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+* SQL:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 * ML/DL:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -74,7 +75,9 @@
   </a>
 
 ## More About Me:
-I follow the #bookaweek challenge and have a challenge to read 52 books in a year. I love particing Yoga and believe everyone should try Yoga atleast once in life. 
+
+I follow the #bookaweek challenge and have a challenge to read 52 books in a year. 
+I love particing "Yoga" and believe everyone should try Yoga atleast once in their life. 
 
 [![Neema's github stats](https://github-readme-stats.vercel.app/api?username=mvneema&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
