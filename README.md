@@ -1,5 +1,6 @@
 
-![Welcome](https://github.com/mvneema/mvneema/blob/main/Welcome-Animated-shape-PixTeller.gif?raw=true)
+
+<img src="https://github.com/mvneema/mvneema/blob/main/Welcome-Animated-shape-PixTeller.gif?raw=true" width="120" height="80" />
 
 ## About Me
 * Currently Employed at Verizon India as A Data Scientist and Data Analyst :computer: :office:
