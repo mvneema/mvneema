@@ -30,7 +30,7 @@
 
 ## Connect with me:
 
-<a href="www.linkedin.com/in/neema-madayi-veetil/">
+<a href="www.linkedin.com/in/neema-madayi-veetil">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
