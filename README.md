@@ -1,5 +1,5 @@
 
-![Image of Yaktocat](https://octodex.github.com/images/mona-the-rivetertocat.png)
+![Welcome](https://github.com/mvneema/mvneema/blob/main/Welcome-Animated-shape-PixTeller.gif?raw=true)
 
 ## About Me
 * Currently Employed at Verizon India as A Data Scientist and Data Analyst :computer: :office:
